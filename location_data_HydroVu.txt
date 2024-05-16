@@ -22,16 +22,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.373254, 35.11825]
+        "coordinates": [-105.06587, 40.58833]
       },
       "properties": {
-        "locationId": 4620410022133760,
-        "parameterId": "1",
-        "unitId": "1",
+        "locationId": 4705930169417728,
+        "parameterId": "2",
+        "unitId": "17",
         "readings": [
-          {"timestamp": 1708107120, "value": 13.60392},
-          {"timestamp": 1708121520, "value": 13.623703},
-          {"timestamp": 1708135920, "value": 13.621727}
+          {"timestamp": 1708107120, "value": 19.181555},
+          {"timestamp": 1708121520, "value": 19.182453},
+          {"timestamp": 1708135920, "value": 19.170254}
         ]
       }
     },
@@ -39,16 +39,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.373254, 35.11825]
+        "coordinates": [-106.341245, 35.164151]
       },
       "properties": {
-        "locationId": 4620410022133760,
-        "parameterId": "4",
-        "unitId": "35",
+        "locationId": 4780705911799808,
+        "parameterId": "2",
+        "unitId": "17",
         "readings": [
-          {"timestamp": 1708107120, "value": 17.1070267968},
-          {"timestamp": 1708121520, "value": 17.106394032},
-          {"timestamp": 1708135920, "value": 17.114980248000002}
+          {"timestamp": 1708107120, "value": 19.181555},
+          {"timestamp": 1708121520, "value": 19.182453},
+          {"timestamp": 1708135920, "value": 19.170254}
         ]
       }
     },
@@ -56,16 +56,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.373254, 35.11825]
+        "coordinates": [-106.341482, 35.163939]
       },
       "properties": {
-        "locationId": 4620410022133760,
-        "parameterId": "9",
-        "unitId": "65",
+        "locationId": 4856788170440704,
+        "parameterId": "2",
+        "unitId": "17",
         "readings": [
-          {"timestamp": 1708107120, "value": 2331.3003},
-          {"timestamp": 1708121520, "value": 2331.754},
-          {"timestamp": 1708135920, "value": 2332.3892}
+          {"timestamp": 1708107120, "value": 19.181555},
+          {"timestamp": 1708121520, "value": 19.182453},
+          {"timestamp": 1708135920, "value": 19.170254}
         ]
       }
     },
@@ -73,16 +73,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.373254, 35.11825]
+        "coordinates": [-106.38549, 35.112131]
       },
       "properties": {
-        "locationId": 4620410022133760,
-        "parameterId": "10",
-        "unitId": "65",
+        "locationId": 5077740153077760,
+        "parameterId": "2",
+        "unitId": "17",
         "readings": [
-          {"timestamp": 1708107120, "value": 2655.739},
-          {"timestamp": 1708121520, "value": 2655.1128},
-          {"timestamp": 1708135920, "value": 2655.9502}
+          {"timestamp": 1708107120, "value": 19.181555},
+          {"timestamp": 1708121520, "value": 19.182453},
+          {"timestamp": 1708135920, "value": 19.170254}
         ]
       }
     },
@@ -90,16 +90,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.373254, 35.11825]
+        "coordinates": [-106.3381270388669, 35.17534804702552]
       },
       "properties": {
-        "locationId": 4620410022133760,
-        "parameterId": "12",
-        "unitId": "97",
+        "locationId": 5164658647760896,
+        "parameterId": "2",
+        "unitId": "17",
         "readings": [
-          {"timestamp": 1708107120, "value": 1.5584929},
-          {"timestamp": 1708121520, "value": 1.5580684},
-          {"timestamp": 1708135920, "value": 1.5585904}
+          {"timestamp": 1708107120, "value": 19.181555},
+          {"timestamp": 1708121520, "value": 19.182453},
+          {"timestamp": 1708135920, "value": 19.170254}
         ]
       }
     },
@@ -107,16 +107,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.373254, 35.11825]
+        "coordinates": [-105.06587, 40.58833]
       },
       "properties": {
-        "locationId": 4620410022133760,
-        "parameterId": "13",
-        "unitId": "117",
+        "locationId": 5196449593032704,
+        "parameterId": "2",
+        "unitId": "17",
         "readings": [
-          {"timestamp": 1708107120, "value": 1726.2304},
-          {"timestamp": 1708121520, "value": 1725.8233},
-          {"timestamp": 1708135920, "value": 1726.3675999999998}
+          {"timestamp": 1708107120, "value": 19.181555},
+          {"timestamp": 1708121520, "value": 19.182453},
+          {"timestamp": 1708135920, "value": 19.170254}
         ]
       }
     },
@@ -124,16 +124,16 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.373254, 35.11825]
+        "coordinates": [-106.341763, 35.35198]
       },
       "properties": {
-        "locationId": 4620410022133760,
-        "parameterId": "11",
-        "unitId": "81",
+        "locationId": 5322058190159872,
+        "parameterId": "2",
+        "unitId": "17",
         "readings": [
-          {"timestamp": 1708107120, "value": 428.94516},
-          {"timestamp": 1708121520, "value": 428.86172},
-          {"timestamp": 1708135920, "value": 428.7449}
+          {"timestamp": 1708107120, "value": 19.181555},
+          {"timestamp": 1708121520, "value": 19.182453},
+          {"timestamp": 1708135920, "value": 19.170254}
         ]
       }
     },
@@ -141,16 +141,33 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.373254, 35.11825]
+        "coordinates": [-106.317453, 34.992856]
       },
       "properties": {
-        "locationId": 4620410022133760,
-        "parameterId": "14",
-        "unitId": "129",
+        "locationId": 5415858396856320,
+        "parameterId": "2",
+        "unitId": "17",
         "readings": [
-          {"timestamp": 1708107120, "value": 1.00051},
-          {"timestamp": 1708121520, "value": 1.0005069},
-          {"timestamp": 1708135920, "value": 1.0005076}
+          {"timestamp": 1708107120, "value": 19.181555},
+          {"timestamp": 1708121520, "value": 19.182453},
+          {"timestamp": 1708135920, "value": 19.170254}
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.341462, 35.163942]
+      },
+      "properties": {
+        "locationId": 5515513042436096,
+        "parameterId": "2",
+        "unitId": "17",
+        "readings": [
+          {"timestamp": 1708107120, "value": 19.181555},
+          {"timestamp": 1708121520, "value": 19.182453},
+          {"timestamp": 1708135920, "value": 19.170254}
         ]
       }
     }
