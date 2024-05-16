@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GeoJSON Data</title>
+</head>
+<body>
+    <h1>GeoJSON Data</h1>
+    <pre id="geojson-data"></pre>
+    <script>
+        fetch('location_data.geojson')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('geojson-data').textContent = JSON.stringify(data, null, 2);
+            });
+    </script>
+</body>
+</html>
