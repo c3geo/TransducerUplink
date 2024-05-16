@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [longitude, latitude]  # Replace with actual longitude and latitude
+        "coordinates": [-106.373254, 35.11825]
       },
       "properties": {
         "locationId": 4620410022133760,
@@ -22,7 +22,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [longitude, latitude]  # Replace with actual longitude and latitude
+        "coordinates": [-106.373254, 35.11825]
       },
       "properties": {
         "locationId": 4620410022133760,
@@ -39,7 +39,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [longitude, latitude]  # Replace with actual longitude and latitude
+        "coordinates": [-106.373254, 35.11825]
       },
       "properties": {
         "locationId": 4620410022133760,
@@ -56,7 +56,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [longitude, latitude]  # Replace with actual longitude and latitude
+        "coordinates": [-106.373254, 35.11825]
       },
       "properties": {
         "locationId": 4620410022133760,
@@ -73,7 +73,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [longitude, latitude]  # Replace with actual longitude and latitude
+        "coordinates": [-106.373254, 35.11825]
       },
       "properties": {
         "locationId": 4620410022133760,
@@ -90,7 +90,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [longitude, latitude]  # Replace with actual longitude and latitude
+        "coordinates": [-106.373254, 35.11825]
       },
       "properties": {
         "locationId": 4620410022133760,
@@ -107,7 +107,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [longitude, latitude]  # Replace with actual longitude and latitude
+        "coordinates": [-106.373254, 35.11825]
       },
       "properties": {
         "locationId": 4620410022133760,
@@ -124,7 +124,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [longitude, latitude]  # Replace with actual longitude and latitude
+        "coordinates": [-106.373254, 35.11825]
       },
       "properties": {
         "locationId": 4620410022133760,
@@ -141,7 +141,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [longitude, latitude]  # Replace with actual longitude and latitude
+        "coordinates": [-106.373254, 35.11825]
       },
       "properties": {
         "locationId": 4620410022133760,
