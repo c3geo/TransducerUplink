@@ -5,136 +5,78 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-106.746358, 35.097785]
+      },
+      "properties": {
+        "wellName": "Arroyo Vista-1002964",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-106.373254, 35.11825]
       },
       "properties": {
-        "locationId": 4620410022133760,
-        "parameterId": "2",
-        "unitId": "17",
-        "readings": [
-          {"timestamp": 1708107120, "value": 19.181555},
-          {"timestamp": 1708121520, "value": 19.182453},
-          {"timestamp": 1708135920, "value": 19.170254}
-        ]
+        "wellName": "BCFD Wildland Sub-1091579",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-105.06587, 40.58833]
+        "coordinates": [-106.308379, 34.955972]
       },
       "properties": {
-        "locationId": 4705930169417728,
-        "parameterId": "2",
-        "unitId": "17",
-        "readings": [
-          {"timestamp": 1708107120, "value": 19.181555},
-          {"timestamp": 1708121520, "value": 19.182453},
-          {"timestamp": 1708135920, "value": 19.170254}
-        ]
+        "wellName": "Buckboard 2-1042846",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.341245, 35.164151]
+        "coordinates": [-106.498026, 35.183198]
       },
       "properties": {
-        "locationId": 4780705911799808,
-        "parameterId": "2",
-        "unitId": "17",
-        "readings": [
-          {"timestamp": 1708107120, "value": 19.181555},
-          {"timestamp": 1708121520, "value": 19.182453},
-          {"timestamp": 1708135920, "value": 19.170254}
-        ]
+        "wellName": "Cedar Hill-966586",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.341482, 35.163939]
+        "coordinates": [-106.37513, 35.127739]
       },
       "properties": {
-        "locationId": 4856788170440704,
-        "parameterId": "2",
-        "unitId": "17",
-        "readings": [
-          {"timestamp": 1708107120, "value": 19.181555},
-          {"timestamp": 1708121520, "value": 19.182453},
-          {"timestamp": 1708135920, "value": 19.170254}
-        ]
+        "wellName": "Columbine Thompson 05-375835",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-106.38549, 35.112131]
+        "coordinates": [-106.35988, 35.169876]
       },
       "properties": {
-        "locationId": 5077740153077760,
-        "parameterId": "2",
-        "unitId": "17",
-        "readings": [
-          {"timestamp": 1708107120, "value": 19.181555},
-          {"timestamp": 1708121520, "value": 19.182453},
-          {"timestamp": 1708135920, "value": 19.170254}
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-106.3381270388669, 35.17534804702552]
-      },
-      "properties": {
-        "locationId": 5164658647760896,
-        "parameterId": "2",
-        "unitId": "17",
-        "readings": [
-          {"timestamp": 1708107120, "value": 19.181555},
-          {"timestamp": 1708121520, "value": 19.182453},
-          {"timestamp": 1708135920, "value": 19.170254}
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-105.06587, 40.58833]
-      },
-      "properties": {
-        "locationId": 5196449593032704,
-        "parameterId": "2",
-        "unitId": "17",
-        "readings": [
-          {"timestamp": 1708107120, "value": 19.181555},
-          {"timestamp": 1708121520, "value": 19.182453},
-          {"timestamp": 1708135920, "value": 19.170254}
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-106.341763, 35.35198]
-      },
-      "properties": {
-        "locationId": 5322058190159872,
-        "parameterId": "2",
-        "unitId": "17",
-        "readings": [
-          {"timestamp": 1708107120, "value": 19.181555},
-          {"timestamp": 1708121520, "value": 19.182453},
-          {"timestamp": 1708135920, "value": 19.170254}
-        ]
+        "wellName": "EMC NW 50-1093362",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
       }
     },
     {
@@ -144,14 +86,62 @@
         "coordinates": [-106.317453, 34.992856]
       },
       "properties": {
-        "locationId": 5415858396856320,
-        "parameterId": "2",
-        "unitId": "17",
-        "readings": [
-          {"timestamp": 1708107120, "value": 19.181555},
-          {"timestamp": 1708121520, "value": 19.182453},
-          {"timestamp": 1708135920, "value": 19.170254}
-        ]
+        "wellName": "Granny Canyon 01-1091585",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.488544, 35.177669]
+      },
+      "properties": {
+        "wellName": "Live Oak-1092511",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.3829826, 35.10448114]
+      },
+      "properties": {
+        "wellName": "Ojito-1002959",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.349897, 35.148297]
+      },
+      "properties": {
+        "wellName": "Pinon Ridge-1092457",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.38549, 35.112131]
+      },
+      "properties": {
+        "wellName": "Richy Place-971379",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
       }
     },
     {
@@ -161,14 +151,140 @@
         "coordinates": [-106.341462, 35.163942]
       },
       "properties": {
-        "locationId": 5515513042436096,
-        "parameterId": "2",
-        "unitId": "17",
-        "readings": [
-          {"timestamp": 1708107120, "value": 19.181555},
-          {"timestamp": 1708121520, "value": 19.182453},
-          {"timestamp": 1708135920, "value": 19.170254}
-        ]
+        "wellName": "SP3-457113",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.34115, 35.164368]
+      },
+      "properties": {
+        "wellName": "SP4-636814",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.341309, 35.163644]
+      },
+      "properties": {
+        "wellName": "SP5-457931",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.341245, 35.164151]
+      },
+      "properties": {
+        "wellName": "SP6-457971",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.341763, 35.035198]
+      },
+      "properties": {
+        "wellName": "Sabino South-1091617",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.335251, 35.220109]
+      },
+      "properties": {
+        "wellName": "Sandoval Couunty 2-Z",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.2942391, 35.05338603]
+      },
+      "properties": {
+        "wellName": "Sedillo Ridge-969652",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.353383, 35.12281]
+      },
+      "properties": {
+        "wellName": "Sierra Vista-966932",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.338127, 35.17534805]
+      },
+      "properties": {
+        "wellName": "Vista Grande CC-586873",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.341482, 35.163939]
+      },
+      "properties": {
+        "wellName": "VuLink-1099946",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.29371, 34.939171]
+      },
+      "properties": {
+        "wellName": "Whispering Pines-1002958",
+        "parameterId": 2,
+        "unitId": 17,
+        "readings": []
       }
     }
   ]
